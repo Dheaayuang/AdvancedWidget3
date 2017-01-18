@@ -1,26 +1,25 @@
 # AdvancedWidget3
 
-Judul : AdvancedWidget3
+- Judul : AdvancedWidget3
 
-Penjelasan :
+- ScreenShoot :
 
-- Pada project AdvancedWidget3 ini menggunakan Data Binding, yang pada saat kita menginputkan nama maka akan keluar sesuai dengan ritme 
-ketukan (yang akan langsung keluar dibawah editText tanpa harus menekan button.
+1.
 
-Identitas
+<img src="https://github.com/Dheaayuang/AdvancedWidget3/blob/master/AW3_1.png">
+
+2.
+
+<img src="https://github.com/Dheaayuang/AdvancedWidget3/blob/master/AW3_2.png">
+
+- Identitas
 
 Nama : Dhea Ayu Anggraini
 
 Kelas : XI RPL 3
 
-No.absen : 07
+No Urut : 07
 
 NIS : 4696/1415.070
 
 Nama Sekolah : SMK Telkom Malang
-
-Screenshoots :
-
-<img src="https://github.com/Dheaayuang/AdvancedWidget3/blob/master/AW3_1.png">
-
-<img src="https://github.com/Dheaayuang/AdvancedWidget3/blob/master/AW3_2.png">
